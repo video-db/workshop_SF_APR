@@ -136,5 +136,5 @@ Questions during the workshop? Raise your hand or reach out to us on Discord!
 [stars-url]: https://github.com/video-db/workshop_SF_APR/stargazers
 [issues-shield]: https://img.shields.io/github/issues/video-db/workshop_SF_APR.svg?style=for-the-badge
 [issues-url]: https://github.com/video-db/workshop_SF_APR/issues
-[website-shield]: https://img.shields.io/website?url=https%3A%2F%2Fvideodb.io%2F&style=for-the-badge
+[website-shield]: https://img.shields.io/badge/Website-videodb.io-blue?style=for-the-badge
 [website-url]: https://videodb.io/
