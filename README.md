@@ -68,6 +68,7 @@ Build AI agents with video superpowers using VideoDB Skills:
 
 | Demo | Description | Link |
 |------|-------------|------|
+| 3 Idiots as Horror Movie | What if 3 Idiots was a horror movie? | [Watch](https://console.videodb.io/player?url=https%3A%2F%2Fstream.videodb.io%2Fv3%2Fpublished%2Fmanifests%2Fc16e32de-7e79-4f00-9db4-3d390499f8b9.m3u8) |
 | OpenClaw Playing Dino Game | Watch AI agent play Chrome's Dino game | [Watch](https://console.videodb.io/player?url=https://stream.videodb.io/v3/published/manifests/16f5a206-eabb-4569-a092-32f09796e800.m3u8) |
 | VideoDB Launch Coverage | Coverage of VideoDB launch | [Watch](https://console.videodb.io/player?url=https://play.videodb.io/v1/eb5c8170-5557-43b0-9809-cace9a98f0e0.m3u8) |
 | Axios NPM Hack | Analysis of the axios npm security incident | [Watch](https://console.videodb.io/player?url=https://play.videodb.io/v1/a43d5463-a39d-4aac-994f-abdfb5b3bf2d.m3u8) |
