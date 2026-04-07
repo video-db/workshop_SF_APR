@@ -27,7 +27,13 @@ Sign up at [console.videodb.io](https://console.videodb.io) to get your free API
 pip install videodb
 ```
 
-### 3. Run the Notebooks
+### 3. Install VideoDB Skills (for AI Agents)
+
+```bash
+npx skills add video-db/skills
+```
+
+### 4. Run the Notebooks
 
 Open any notebook in Google Colab or Jupyter and follow along!
 
