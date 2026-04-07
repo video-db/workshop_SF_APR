@@ -1,3 +1,8 @@
+[![License][license-shield]][license-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![Website][website-shield]][website-url]
+
 # VideoDB Workshop - San Francisco (April 2025)
 
 Welcome to the **VideoDB SF Workshop**! This repository contains hands-on notebooks to help you build AI-powered video applications using VideoDB.
@@ -118,4 +123,18 @@ Questions during the workshop? Raise your hand or reach out to us on Discord!
 
 ---
 
-**Build the future of video with VideoDB - the perception layer AI deserves.**
+<p align="center">
+  <a href="https://videodb.io/"><img src="https://raw.githubusercontent.com/video-db/videodb-python/main/assets/videodb-logo-black.png" alt="VideoDB" height="40"></a>
+</p>
+
+<p align="center">Made with love by the <a href="https://videodb.io">VideoDB</a> team</p>
+
+<!-- MARKDOWN LINKS & IMAGES -->
+[license-shield]: https://img.shields.io/github/license/video-db/workshop_SF_APR.svg?style=for-the-badge
+[license-url]: https://github.com/video-db/workshop_SF_APR/blob/main/LICENSE
+[stars-shield]: https://img.shields.io/github/stars/video-db/workshop_SF_APR.svg?style=for-the-badge
+[stars-url]: https://github.com/video-db/workshop_SF_APR/stargazers
+[issues-shield]: https://img.shields.io/github/issues/video-db/workshop_SF_APR.svg?style=for-the-badge
+[issues-url]: https://github.com/video-db/workshop_SF_APR/issues
+[website-shield]: https://img.shields.io/website?url=https%3A%2F%2Fvideodb.io%2F&style=for-the-badge
+[website-url]: https://videodb.io/
