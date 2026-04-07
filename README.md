@@ -8,10 +8,10 @@ Welcome to the **VideoDB SF Workshop**! This repository contains hands-on notebo
 
 ### Notebooks
 
-| Notebook | Description |
-|----------|-------------|
-| [VideoDB Quickstart: See, Understand, Act](VideoDB_Quickstart_See_Understand_Act.ipynb) | Complete guide covering single video workflows (upload, index, search, AI editing) and live stream workflows (RTSP connection, real-time event detection, WebSocket alerts) |
-| [Multicam Quickstart](Multicam_Quickstart.ipynb) | Build a multi-camera surveillance system with 4 synchronized cameras, AI-powered event detection, and synchronized multi-angle video composition |
+| Notebook | Description | |
+|----------|-------------|:-:|
+| [VideoDB Quickstart: See, Understand, Act](VideoDB_Quickstart_See_Understand_Act.ipynb) | Complete guide covering single video workflows (upload, index, search, AI editing) and live stream workflows (RTSP connection, real-time event detection, WebSocket alerts) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/video-db/workshop_SF_APR/blob/main/VideoDB_Quickstart_See_Understand_Act.ipynb) |
+| [Multicam Quickstart](Multicam_Quickstart.ipynb) | Build a multi-camera surveillance system with 4 synchronized cameras, AI-powered event detection, and synchronized multi-angle video composition | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/video-db/workshop_SF_APR/blob/main/Multicam_Quickstart.ipynb) |
 
 ---
 
