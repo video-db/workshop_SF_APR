@@ -1,7 +1,6 @@
-[![License][license-shield]][license-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![Website][website-shield]][website-url]
+[![Powered by VideoDB](https://img.shields.io/badge/Powered%20by-VideoDB-orange?style=for-the-badge)](https://videodb.io)
+[![Python 3.8+](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![GitHub Stars](https://img.shields.io/github/stars/video-db/workshop_SF_APR?style=for-the-badge&logo=github)](https://github.com/video-db/workshop_SF_APR)
 
 # VideoDB Workshop - San Francisco (April 2025)
 
@@ -135,12 +134,3 @@ Questions during the workshop? Raise your hand or reach out to us on Discord!
 
 <p align="center">Made with love by the <a href="https://videodb.io">VideoDB</a> team</p>
 
-<!-- MARKDOWN LINKS & IMAGES -->
-[license-shield]: https://img.shields.io/github/license/video-db/workshop_SF_APR.svg?style=for-the-badge
-[license-url]: https://github.com/video-db/workshop_SF_APR/blob/main/LICENSE
-[stars-shield]: https://img.shields.io/github/stars/video-db/workshop_SF_APR.svg?style=for-the-badge
-[stars-url]: https://github.com/video-db/workshop_SF_APR/stargazers
-[issues-shield]: https://img.shields.io/github/issues/video-db/workshop_SF_APR.svg?style=for-the-badge
-[issues-url]: https://github.com/video-db/workshop_SF_APR/issues
-[website-shield]: https://img.shields.io/badge/Website-videodb.io-blue?style=for-the-badge
-[website-url]: https://videodb.io/
