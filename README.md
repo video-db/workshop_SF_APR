@@ -128,9 +128,7 @@ Questions during the workshop? Raise your hand or reach out to us on Discord!
 
 ---
 
-<p align="center">
-  <a href="https://videodb.io/"><img src="https://raw.githubusercontent.com/video-db/videodb-python/main/assets/videodb-logo-black.png" alt="VideoDB" height="40"></a>
-</p>
+<p align="center">Made with ❤️ by the <a href="https://videodb.io">VideoDB</a> team</p>
 
-<p align="center">Made with love by the <a href="https://videodb.io">VideoDB</a> team</p>
+---
 
