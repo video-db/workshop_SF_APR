@@ -100,6 +100,7 @@ Build AI agents with video superpowers using VideoDB Skills:
 | Website | [videodb.io](https://videodb.io) |
 | Console | [console.videodb.io](https://console.videodb.io) |
 | Cookbook | [github.com/video-db/videodb-cookbook](https://github.com/video-db/videodb-cookbook) |
+| RTSP Demo Streams | [rtstreams.videodb.io](https://rtstreams.videodb.io/) |
 
 ---
 
