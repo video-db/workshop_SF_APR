@@ -82,6 +82,7 @@ Build AI agents with video superpowers using VideoDB Skills:
 | Karpathy on Knowledge Bases | Karpathy discussing knowledge bases | [Watch](https://console.videodb.io/player?url=https://play.videodb.io/v1/ccd210be-957f-4f57-8bc9-64cffcf5b22b.m3u8) |
 | Claude Code Source Code Leak | Analysis of Claude Code source code leak | [Watch](https://console.videodb.io/player?url=https://play.videodb.io/v1/8d2f9485-18db-45e1-bb5c-244a45bd06eb.m3u8) |
 | Financial News | AI-generated financial news video | [Watch](https://console.videodb.io/player?url=https://play.videodb.io/v1/f37914dd-5239-4c10-aa2e-006f9095ac7c.m3u8) |
+| News Digest | AI-generated news digest | [Watch](https://console.videodb.io/player?url=https://play.videodb.io/v1/43570285-1d6e-4548-86e6-294201d2418f.m3u8) |
 | 3 Idiots as Horror Movie | What if 3 Idiots was a horror movie? | [Watch](https://console.videodb.io/player?url=https%3A%2F%2Fstream.videodb.io%2Fv3%2Fpublished%2Fmanifests%2Fc16e32de-7e79-4f00-9db4-3d390499f8b9.m3u8) |
 | OpenClaw Playing Dino Game | Watch AI agent play Chrome's Dino game | [Watch](https://console.videodb.io/player?url=https://stream.videodb.io/v3/published/manifests/16f5a206-eabb-4569-a092-32f09796e800.m3u8) |
 | VideoDB Launch Coverage | Coverage of VideoDB launch | [Watch](https://console.videodb.io/player?url=https://play.videodb.io/v1/eb5c8170-5557-43b0-9809-cace9a98f0e0.m3u8) |
